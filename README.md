@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Profile: https://bpantan202.github.io/pannavich-portfolio/#/
+
 <!--
 **bpantan202/bpantan202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
